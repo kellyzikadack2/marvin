@@ -1,5 +1,4 @@
-function nomes(nome1,  nome2){
-    const nick = "Arthur " + " e" + " Zaphod";
-     console.log(nick);
+function nomes(nome1, nome2){
+     return nome1 + " e " + nome2
 }
 
