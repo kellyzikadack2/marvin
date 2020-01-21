@@ -1,5 +1,4 @@
 function nomeDeVolta(){
-    const name = "O android paranóide";
+    const name = "O andróide paranóide";
     console.log(name);
 }
-
