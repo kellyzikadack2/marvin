@@ -1,5 +1,4 @@
 function mostrarNome ()  {
-     const nome = "marvin";
+     const nome = "Marvin"
      console.log(nome)
 }
-
