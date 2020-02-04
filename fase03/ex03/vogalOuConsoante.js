@@ -1,11 +1,14 @@
 function vogalOuConsoante(m){
-var n = m;
+    
+var m = m.toLowerCase();
+
      if(m=='a' || m=='e' || m=='i' || m=='o' ||m=='u'){
 
-    return ( "Vogal" )
+    return ( "Vogal");
+    
+     }else{
+        return ("Consoante");
+     }
 }
-else{
-    return ("Consoante");
-}
-}
+
 
