@@ -1,10 +1,10 @@
-function pares( num ){
-var n = num;
-if(num % 2 == 0){
-    return ( "os numero são pares" )
+function pares(num, num2 ){
+var n = num; 
+   if(num % 2 === 0){
+    return ( "os numero sÃ£o pares" )
 }
 else{
-    return ("os numeros nao são pares");
+    return ("os numeros nao sÃ£o pares");
 }
 }
 
