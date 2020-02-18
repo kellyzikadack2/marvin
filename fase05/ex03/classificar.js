@@ -1,6 +1,3 @@
-function classificar( array )  {
-    var colocar  = array
-    return colocar.sort()
-
+function classificar(array) {
+    return (array.sort())
 }
-
